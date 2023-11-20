@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning how to better myself as a developer in order to be proficient at my job.
 - 💞️ I’m looking to collaborate on real life projects everyday and learn from others. 
 - 📫 How to reach me: mauri_guzman@yahoo.com
+-     Check out my portfolio at https://portfolio-mpg.azurewebsites.net/
 
 <!---
 
